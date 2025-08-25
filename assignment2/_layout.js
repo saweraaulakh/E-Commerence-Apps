@@ -16,13 +16,6 @@ export default function AppLayout() {
           presentation: 'modal',
         }}
       />
-      <Stack.Screen
-        name="guests"
-        options={{
-          title: 'Rooms and Guests',
-          presentation: 'modal',
-        }}
-      />
     </Stack>
   );
 }
