@@ -1,0 +1,63 @@
+export const strings = {
+  // HomeScreen Texts
+  headerTitle: 'Direct',
+  tabHotels: 'Hotels',
+  tabVisas: 'Visas',
+  tabSchools: 'Schools',
+  searchPlaceholder: 'Where are you going?',
+  datesPlaceholder: 'Select your dates',
+  guestsPlaceholder: '1 Room - 2 Adults - 0 Children',
+  searchButton: 'SEARCH',
+  whyDirectTitle: 'Why Direct?',
+  whyDirectText: [
+    'More than 2.5 million choices on our platform',
+    'We provide best value for your money',
+    'Get your instant visa with us!',
+    'Book the best schools for your kids',
+  ],
+  partnersTitle: 'In Partnership with',
+  missingInfoAlertTitle: 'Missing Information',
+  missingInfoAlertMessage: 'Please fill in all the details before searching for hotels.',
+  searchingAlertTitle: 'Searching...',
+  searchingAlertMessage: 'Finding the best hotels for you!',
+
+  // GuestsBottomSheet Texts
+  guestsHeader: 'Select Rooms and Guest Count',
+  guestsRooms: 'Rooms',
+  guestsAdults: 'Adults',
+  guestsChildren: 'Children',
+  childrenSubtitle: '17 Years or less',
+  currency: 'SAR',
+  continueButton: 'CONTINUE',
+  selectChildAge: 'Select Child Age',
+  ageOptions: [
+    'Less than 1 year old',
+    '1 Year old',
+    '2 Years old',
+    '3 Years old',
+    '4 Years old',
+    '5 Years old',
+    '6 Years old',
+    '7 Years old',
+    '8 Years old',
+    '9 Years old',
+    '10 Years old',
+    '11 Years old',
+    '12 Years old',
+    '13 Years old',
+    '14 Years old',
+    '15 Years old',
+    '16 Years old',
+    '17 Years old',
+  ],
+
+  // CalendarBottomSheet Texts
+  calendarHeader: 'Select Dates',
+  calendarConfirm: 'CONFIRM',
+  missingDatesAlertTitle: 'Missing Information',
+  missingDatesAlertMessage: 'Please select both a start and end date.',
+  
+  // SearchScreen Texts
+  searchHeader: 'Select a Destination',
+  searchCityPlaceholder: 'Search for a city...',
+};
