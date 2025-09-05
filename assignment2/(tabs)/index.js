@@ -8,6 +8,7 @@ import { guestDataStore, calendarDataStore } from '../store';
 import { strings } from '../strings/strings';
 import { colors } from '../styles/colors';
 import { homeStyles } from '../styles/homeStyles';
+import { homeStyles_ar } from '../styles/homeStyles_ar';
 import { fontSizes, fontWeights } from '../styles/fonts';
 
 import GuestsBottomSheet from '../GuestsBottomSheet';
@@ -174,3 +175,4 @@ export default function HomeScreen() {
     </View>
   );
 }
+
